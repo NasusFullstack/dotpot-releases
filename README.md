@@ -16,6 +16,7 @@
 - 물주기 · 영양제로 돌봐 주세요. 너무 적어도, 너무 많아도(과습·비료 과다) 아파요.
 - 게임을 켜 둔 시간만큼 자라요 (꽃 약 24시간, 나무 약 56시간). 꺼 두면 멈춰요.
 - 잘 돌본 나무에게는 숨은 단계가, 무지갯빛 꾸러미에서는 파스텔 색 식물이 나와요.
+- 화분(식물)이나 받침을 끌면 위치를 옮길 수 있어요.
 - 작업 표시줄에는 안 뜨고, 시계 옆 트레이의 꽃 아이콘에서 보이기·숨기기·크기·보관함 등을 고를 수 있어요.
 
 ## 저장과 개인 정보
@@ -36,5 +37,5 @@
 | `DotPot.manifest.json` / `.sig` | 판·크기·SHA-256 과 그 서명 |
 
 ## 만든 것들
-- 게임 엔진: [Godot Engine](https://godotengine.org) 4.7 (MIT)
+- 게임 엔진: [Godot Engine](https://godotengine.org) 4.7 (MIT) — 엔진과 구성 요소 라이선스 전문은 zip 안 `엔진_라이선스_Godot.txt`
 - 한글 도트 글꼴: [Galmuri](https://github.com/quiple/galmuri) (SIL Open Font License 1.1) — 라이선스 전문은 zip 안 `글꼴_라이선스_Galmuri_OFL.txt`
